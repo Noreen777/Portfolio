@@ -24,4 +24,20 @@ header("Location: Hireme.html");
 
 
 
+
+
+
+
+// if($_POST["message"]) {
+
+
+//     mail("noreenmalikinfo@gmail.com", "Here is the subject line",
+    
+    
+//     $_POST["insert your message here"]. "From: noreenmalik296@gmail.com");
+    
+    
+//     }
+
+
 ?>
