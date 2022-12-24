@@ -15,4 +15,13 @@ navBar.forEach(function(a){
     a.addEventListener("click", function(){
         navCollapse.classList.remove("show");
     })
-})
+});
+
+// hire me form 
+
+
+
+
+
+
+
